@@ -8,20 +8,30 @@
 
 /* Begin PBXBuildFile section */
 		ACA14EC91EE33BF500015E4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA14EC81EE33BF500015E4A /* AppDelegate.swift */; };
-		ACA14ECB1EE33BF500015E4A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA14ECA1EE33BF500015E4A /* ViewController.swift */; };
 		ACA14ECE1EE33BF500015E4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACA14ECC1EE33BF500015E4A /* Main.storyboard */; };
 		ACA14ED01EE33BF500015E4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACA14ECF1EE33BF500015E4A /* Assets.xcassets */; };
 		ACA14ED31EE33BF500015E4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACA14ED11EE33BF500015E4A /* LaunchScreen.storyboard */; };
+		ACA14EDD1EE343A300015E4A /* Tela3_2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA14EDC1EE343A300015E4A /* Tela3_2ViewController.swift */; };
+		ACA14EDF1EE343DD00015E4A /* Tela3_1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA14EDE1EE343DD00015E4A /* Tela3_1ViewController.swift */; };
+		ACA14EE11EE3457900015E4A /* TelaXViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA14EE01EE3457900015E4A /* TelaXViewController.swift */; };
+		ACA14EE31EE3482E00015E4A /* TelaInicialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA14EE21EE3482E00015E4A /* TelaInicialViewController.swift */; };
+		ACA14EE51EE3491E00015E4A /* TelaVermelhaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA14EE41EE3491E00015E4A /* TelaVermelhaViewController.swift */; };
+		ACA14EE71EE34A1E00015E4A /* TelaAzulViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA14EE61EE34A1E00015E4A /* TelaAzulViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		ACA14EC51EE33BF500015E4A /* iOS Teste.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS Teste.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACA14EC81EE33BF500015E4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		ACA14ECA1EE33BF500015E4A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		ACA14ECD1EE33BF500015E4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		ACA14ECF1EE33BF500015E4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACA14ED21EE33BF500015E4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACA14ED41EE33BF500015E4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACA14EDC1EE343A300015E4A /* Tela3_2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tela3_2ViewController.swift; sourceTree = "<group>"; };
+		ACA14EDE1EE343DD00015E4A /* Tela3_1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tela3_1ViewController.swift; sourceTree = "<group>"; };
+		ACA14EE01EE3457900015E4A /* TelaXViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TelaXViewController.swift; sourceTree = "<group>"; };
+		ACA14EE21EE3482E00015E4A /* TelaInicialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TelaInicialViewController.swift; sourceTree = "<group>"; };
+		ACA14EE41EE3491E00015E4A /* TelaVermelhaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TelaVermelhaViewController.swift; sourceTree = "<group>"; };
+		ACA14EE61EE34A1E00015E4A /* TelaAzulViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TelaAzulViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,11 +65,16 @@
 			isa = PBXGroup;
 			children = (
 				ACA14EC81EE33BF500015E4A /* AppDelegate.swift */,
-				ACA14ECA1EE33BF500015E4A /* ViewController.swift */,
 				ACA14ECC1EE33BF500015E4A /* Main.storyboard */,
 				ACA14ECF1EE33BF500015E4A /* Assets.xcassets */,
 				ACA14ED11EE33BF500015E4A /* LaunchScreen.storyboard */,
 				ACA14ED41EE33BF500015E4A /* Info.plist */,
+				ACA14EDC1EE343A300015E4A /* Tela3_2ViewController.swift */,
+				ACA14EDE1EE343DD00015E4A /* Tela3_1ViewController.swift */,
+				ACA14EE01EE3457900015E4A /* TelaXViewController.swift */,
+				ACA14EE21EE3482E00015E4A /* TelaInicialViewController.swift */,
+				ACA14EE41EE3491E00015E4A /* TelaVermelhaViewController.swift */,
+				ACA14EE61EE34A1E00015E4A /* TelaAzulViewController.swift */,
 			);
 			path = "iOS Teste";
 			sourceTree = "<group>";
@@ -136,7 +151,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ACA14ECB1EE33BF500015E4A /* ViewController.swift in Sources */,
+				ACA14EE51EE3491E00015E4A /* TelaVermelhaViewController.swift in Sources */,
+				ACA14EDF1EE343DD00015E4A /* Tela3_1ViewController.swift in Sources */,
+				ACA14EE11EE3457900015E4A /* TelaXViewController.swift in Sources */,
+				ACA14EE71EE34A1E00015E4A /* TelaAzulViewController.swift in Sources */,
+				ACA14EDD1EE343A300015E4A /* Tela3_2ViewController.swift in Sources */,
+				ACA14EE31EE3482E00015E4A /* TelaInicialViewController.swift in Sources */,
 				ACA14EC91EE33BF500015E4A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
